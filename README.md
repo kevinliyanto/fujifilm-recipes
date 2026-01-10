@@ -60,7 +60,7 @@
 - NR: -4
 - Clarity: 0
 
-5. That one original preset that was deleted accidentally
+5. That one preset I used in Sydney
 
 - FS: Classic Chrome
 - Grain: Weak/Small
