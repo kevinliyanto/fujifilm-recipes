@@ -2,7 +2,7 @@
 
 1. Ginza 1980
 
-- FS: Classic Chrome/Classic Negative
+- FS: Classic Chrome, Classic Negative
 - Grain: Strong/Small
 - CC Effect: Off
 - CC FX Blue: Off
@@ -77,7 +77,7 @@
 
 6. That one preset I used in Nagasaki
 
-- FS: Classic Chrome
+- FS: Classic Chrome, Velvia
 - Grain: Strong/Small
 - CC Effect: Off
 - CC FX Blue: Off
