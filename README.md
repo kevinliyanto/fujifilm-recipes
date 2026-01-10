@@ -74,3 +74,20 @@
 - Sharpness: 0
 - NR: 0
 - Clarity: 0
+
+6. That one preset I used in Nagasaki
+
+<!-- DSCF3922 -->
+
+- FS: Classic Chrome
+- Grain: ?
+- CC Effect: Off
+- CC FX Blue: Off
+- WB: Daylight Fluorescent (R: 4/B: -4)
+- DR: DR100
+- Highlight: 0
+- Shadow: 0
+- Color: ?
+- Sharpness: ?
+- NR: -4
+- Clarity: 0
