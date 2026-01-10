@@ -75,9 +75,9 @@
 - NR: 0
 - Clarity: 0
 
-6. That one preset I used in Nagasaki
+6. That one preset I used in Nagasaki, quite versatile
 
-- FS: Classic Chrome, Velvia
+- FS: Classic Chrome, Velvia, Classic Negative
 - Grain: Strong/Small
 - CC Effect: Off
 - CC FX Blue: Off
