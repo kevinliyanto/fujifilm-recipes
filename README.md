@@ -1,5 +1,7 @@
 # Fujifilm recipes
 
+Pictures are available on request.
+
 1. Ginza 1980
 
 - FS: Classic Chrome, Classic Negative
@@ -89,3 +91,42 @@
 - Sharpness: -4
 - NR: -4
 - Clarity: 0
+
+## To be tested
+
+7. Escura Showa
+
+- FS: Classic Negative
+- Grain: Strong/Large
+- CC Effect: Off
+- CC FX Blue: Off
+- WB: Daylight Fluorescent (R: 0/B: -5)
+- DR: DR400
+- Highlight: -2
+- Shadow: -1
+- Color: -2
+- Sharpness: -2
+- NR: -4
+- Clarity: 0 or -4 for dreamy
+
+- ISO: 6400
+- Exposure: +2/3 to +1
+
+8. Yashica Golden 80s
+
+
+- FS: Classic Negative
+- Grain: Strong/Small
+- CC Effect: Strong
+- CC FX Blue: Strong
+- WB: Daylight Fluorescent (R: 4/B: -2)
+- DR: DR400
+- Highlight: -1
+- Shadow: +1.5
+- Color: +3
+- Sharpness: -1
+- NR: -4
+- Clarity: 0
+
+- ISO: 6400
+- Exposure: 0 to +2/3
