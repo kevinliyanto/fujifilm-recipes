@@ -108,12 +108,10 @@ Pictures are available on request.
 - Sharpness: -2
 - NR: -4
 - Clarity: 0 or -4 for dreamy
-
 - ISO: 6400
 - Exposure: +2/3 to +1
 
 8. Yashica Golden 80s
-
 
 - FS: Classic Negative
 - Grain: Strong/Small
@@ -127,6 +125,5 @@ Pictures are available on request.
 - Sharpness: -1
 - NR: -4
 - Clarity: 0
-
 - ISO: 6400
 - Exposure: 0 to +2/3
