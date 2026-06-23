@@ -1,6 +1,6 @@
 # Fujifilm recipes
 
-Pictures are available on request.
+Pictures are available on my linked instagram account.
 
 1. Ginza 1980
 
