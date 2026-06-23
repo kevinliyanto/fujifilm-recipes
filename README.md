@@ -92,8 +92,6 @@ Pictures are available on request.
 - NR: -4
 - Clarity: 0
 
-## To be tested
-
 7. Escura Showa
 
 - FS: Classic Negative
